@@ -1,0 +1,29 @@
+package Selenium;
+
+public class Test {
+
+	int a;
+	int b;
+	
+	public static void main(String[] args) {
+
+		Test t=new Test();
+		t.a=20;
+		t.b=30;
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	public void swap(Test obj){
+		int temp;
+		temp=t.a;
+		
+		
+	}
+
+}

@@ -1,0 +1,39 @@
+package Selenium;
+
+public class Test {
+
+	int a;
+	int b;
+	
+	public static void main(String[] args) {
+
+		Test t=new Test();
+		t.a=20;
+		t.b=30;
+		
+		
+	System.out.println(t.a);
+	
+	System.out.println(t.b);
+	
+	System.out.println("After sweaping");
+	
+		t.swap(obj);
+		
+		
+		
+		
+		
+	}
+	
+	
+	public void swap(Test obj){
+		int temp;
+		temp=obj.a;
+		obj.a=obj.b;
+		obj.b=temp;
+		
+		
+	}
+
+}

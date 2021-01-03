@@ -1,0 +1,32 @@
+package Selenium;
+
+public class Test {
+
+	
+	
+	public static void main(String[] args) {
+
+		
+		Test t=new Test();
+		
+		int x=50;
+		int y=60;
+		
+		int z=t.add(x, y);
+		
+		System.out.println(z);
+		
+		
+		
+		
+	}
+	
+	
+	public int add(int a,int b){
+		a=10;
+		b=20;
+		int c=a+b;
+		return c;
+	}
+
+}

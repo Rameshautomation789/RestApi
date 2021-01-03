@@ -1,0 +1,9 @@
+package JavaBascis;
+
+public final class finalParentclass {
+	
+	public void Run(){
+		System.out.println("Parent class ................ Running");
+	}
+
+}

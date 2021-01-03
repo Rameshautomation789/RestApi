@@ -1,0 +1,24 @@
+package Selenium;
+
+public class Test {
+
+	int a;
+	int b;
+	
+	public static void main(String[] args) {
+
+		Test t=new Test();
+		
+		
+		
+		
+	}
+	
+	
+	public void swap(int a,int b){
+		
+		
+		
+	}
+
+}

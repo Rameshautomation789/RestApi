@@ -1,0 +1,20 @@
+package JavaBascis;
+
+public class ExceptionHandling {
+
+	
+	public static void main(String[] args) throws InterruptedException {
+		
+		
+		// uncaught Exception
+		int i=9/0;
+		System.out.println(i);
+		
+		//caught Exception
+		
+		Thread.sleep(2000);
+		
+
+	}
+
+}

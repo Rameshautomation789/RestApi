@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\CucumberFramework-master"/>
+		<item value="D:\CucumberFramework-master"/>
+		<item value="C:\SeleniumWithCucucmber\SeleniumWithCucucmber"/>
+		<item value="D:\Selenium Project\WebDriverFrameWork"/>
+		<item value="C:\Users\Ramesh\Desktop\WebDriverFrameWork"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>

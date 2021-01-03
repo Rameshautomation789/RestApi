@@ -1,0 +1,17 @@
+package JavaBascis;
+
+public class ExceptionHandling {
+
+	
+	public static void main(String[] args) {
+		
+		
+		// uncaught Exception
+		int i=9/0;
+		System.out.println(i);
+		
+		//caught Exception
+
+	}
+
+}
