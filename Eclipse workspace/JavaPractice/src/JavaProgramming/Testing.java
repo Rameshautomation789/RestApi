@@ -23,6 +23,9 @@ public class Testing {
 		}
 		
 	System.out.println(sum1);	 
+	System.out.println(sum1);
+	System.out.println(sum1);
+	System.out.println(sum1);
 		 
 		
 	int onumber=sum1-sum;
